@@ -24,6 +24,8 @@ class Imatge():
         print("Var es " + 34)
         Lolitaa="24"
         sevilla="un color especial"
+        print("Haber que pasa")
+        print("Soy humilde")
 
 
         for i in self.__imgs_np_grays:
