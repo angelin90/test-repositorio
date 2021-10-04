@@ -39,6 +39,9 @@ class Imatge():
         self.__imgs_np_grays.append(cv2.cvtColor(img, cv2.COLOR_BGR2GRAY))
 
     def calcula_distancia(self, imatge):
+        print("distancia buena")
+        print("Distancia mala")
+        print("distancia dificil")
         return None
 
     def init_bow_img(self, file_vocabulary):
