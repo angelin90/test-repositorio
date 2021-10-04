@@ -28,14 +28,8 @@ class Imatge():
 
 
     def llegeix(self, nom_fitxer):
-        '''
-        Leemos la imagen
-        Luego añadimos en una lista los paths de las imagenes
-        Tambien añadimos la imagen en formato numpy
-        Tambien añadimos la imagen en escala de grises en formato numpy
-
-        :param nom_fitxer:
-        '''
+        print("hola mundo")
+        print("maria")
         try:
             img = cv2.imread(nom_fitxer)
         except Exception as e:
