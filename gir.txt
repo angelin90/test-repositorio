@@ -1,1 +1,2 @@
-fuiste tu
+print("mundo")
+print("mundo")
