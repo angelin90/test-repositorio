@@ -16,16 +16,10 @@ class Imatge():
         self.__bow = []
 
     def get_representacio(self):
-        var=12
-        car=3
-        print("Representacion de imagen" + var + car)
-        melissa=26
-        print("Sonia jimenez" + melissa)
-        print("Var es " + 34)
-        Lolitaa="24"
-        sevilla="un color especial"
-        print("Haber que pasa")
-        print("Soy humilde")
+        var=3
+        var2=25
+       print("El numero es: " + var)
+       print("El numero es: " + var2)
 
 
         for i in self.__imgs_np_grays:
